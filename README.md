@@ -1,16 +1,23 @@
-## Hi there 👋
+# Saudia Automobile — Animated Website
 
-<!--
-**Saudiaautomobile/saudiaautomobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Updated to match the supplied black/red premium automotive homepage reference.
 
-Here are some ideas to get you started:
+Features:
+- New Saudia Automobile logo
+- Cinematic car hero section
+- Animated floating car, red orbit, particles and shine
+- Animated service cards and hover effects
+- 46-point vehicle check section
+- Gallery preview
+- Booking form that opens email
+- Call Now and WhatsApp buttons
+- Google Maps directions
+- Fully responsive mobile layout
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Business details:
+Saudia Automobile
+Your Car, Our Care
+Matuali Council Demra Road, Jatrabari, Dhaka-1362
++88 01407-400600 / +88 01408-400600
+saudiaautomobile@gmail.com
+10 AM - 10 PM Everyday
