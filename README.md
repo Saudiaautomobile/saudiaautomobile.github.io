@@ -1,23 +1,21 @@
-# Saudia Automobile — Animated Website
+# Saudia Automobile — GitHub Ready
+Premium automobile workshop website with the supplied logo and workshop image.
 
-Updated to match the supplied black/red premium automotive homepage reference.
+## New in this version
+- Scroll reveal animations across sections
+- Staggered service/check/gallery card animations
+- Hero background slow zoom
+- Hero car floating + pointer parallax
+- Animated light/shine effects
+- Animated red orbit/particles
+- Button light sweep + hover lift
+- Header scroll effect
+- Active navigation section tracking
+- Quick-info hover animations
+- About image sweep/zoom
+- Gallery hover shine
+- Form focus animations
+- Contact/footer micro-interactions
+- Respects reduced-motion accessibility preference
 
-Features:
-- New Saudia Automobile logo
-- Cinematic car hero section
-- Animated floating car, red orbit, particles and shine
-- Animated service cards and hover effects
-- 46-point vehicle check section
-- Gallery preview
-- Booking form that opens email
-- Call Now and WhatsApp buttons
-- Google Maps directions
-- Fully responsive mobile layout
-
-Business details:
-Saudia Automobile
-Your Car, Our Care
-Matuali Council Demra Road, Jatrabari, Dhaka-1362
-+88 01407-400600 / +88 01408-400600
-saudiaautomobile@gmail.com
-10 AM - 10 PM Everyday
+Upload all files in this folder to the GitHub Pages repository, keeping image filenames unchanged.
